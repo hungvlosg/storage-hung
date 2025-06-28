@@ -54,9 +54,7 @@
       "key": "TEST4"
     },
     {
-      "key": "TEST5",
-      "used": true,
-      "device": "96830609089510"
+      "key": "TEST5"
     }
   ]
 }
