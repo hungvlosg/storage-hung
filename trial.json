@@ -39,7 +39,9 @@
       "key": "MR_VU_1/7"
     },
     {
-      "key": "TEST"
+      "key": "TEST",
+      "used": true,
+      "device": "963401194326"
     },
     {
       "key": "TEST1SDFSD34"
