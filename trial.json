@@ -46,7 +46,9 @@
       "device": "963401194326"
     },
     {
-      "key": "TEST1SDFSD34"
+      "key": "TEST1SDFSD34",
+      "used": true,
+      "device": "244926414997909"
     },
     {
       "key": "TEST2SDFSD43"
