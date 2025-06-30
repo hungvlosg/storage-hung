@@ -56,7 +56,9 @@
       "device": "18218471739355"
     },
     {
-      "key": "TEST3FSDFS54"
+      "key": "TEST3FSDFS54",
+      "used": true,
+      "device": "96830619978558"
     },
     {
       "key": "TEST4FSDFDFH"
