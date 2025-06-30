@@ -41,7 +41,9 @@
       "device": "963401194326"
     },
     {
-      "key": "VPS"
+      "key": "VPS",
+      "used": true,
+      "device": "244926414997909"
     },
     {
       "key": "TEST2SDFSD43",
