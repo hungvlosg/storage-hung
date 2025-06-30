@@ -54,7 +54,9 @@
       "device": "18218471739355"
     },
     {
-      "key": "NoriHub"
+      "key": "NoriHub",
+      "used": true,
+      "device": "201423355429502"
     },
     {
       "key": "TEST4FSDFDFH"
