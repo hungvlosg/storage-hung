@@ -46,7 +46,9 @@
       "device": "244926414997909"
     },
     {
-      "key": "TEST2GFRRFE"
+      "key": "TEST2GFRRFE",
+      "used": true,
+      "device": "57562766931326"
     },
     {
       "key": "NoriHub",
