@@ -41,7 +41,9 @@
       "device": "244926414997909"
     },
     {
-      "key": "MR_VU_1/7"
+      "key": "MR_VU_1/7",
+      "used": true,
+      "device": "255620978060505"
     },
     {
       "key": "NoriHub",
