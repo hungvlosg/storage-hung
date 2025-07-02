@@ -46,7 +46,9 @@
       "device": "244926414997909"
     },
     {
-      "key": "TEST2"
+      "key": "TEST2",
+      "used": true,
+      "device": "255620978060505"
     },
     {
       "key": "NoriHub",
