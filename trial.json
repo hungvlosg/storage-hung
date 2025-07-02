@@ -31,11 +31,6 @@
       "device": "173618674705981"
     },
     {
-      "key": "MR_VU_1/7",
-      "used": true,
-      "device": "142802971397548"
-    },
-    {
       "key": "Lan_Ha_1/7",
       "used": true,
       "device": "963401194326"
@@ -46,9 +41,7 @@
       "device": "244926414997909"
     },
     {
-      "key": "TEST2",
-      "used": true,
-      "device": "255620978060505"
+      "key": "MR_VU_1/7"
     },
     {
       "key": "NoriHub",
