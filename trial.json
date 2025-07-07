@@ -49,7 +49,9 @@
       "key": "MR_VU_1/7"
     },
     {
-      "key": "TEST6LDSEEER"
+      "key": "TEST6LDSEEER",
+      "used": true,
+      "device": "189157799903812"
     },
     {
       "key": "TEST7JSJFKDF"
