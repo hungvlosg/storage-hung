@@ -59,7 +59,9 @@
       "device": "175501879058462"
     },
     {
-      "key": "TEST8LRKFEDF"
+      "key": "TEST8LRKFEDF",
+      "used": true,
+      "device": "207273071729877"
     },
     {
       "key": "TEST9KJDSJKF"
