@@ -16,6 +16,11 @@
       "device": "962535710826"
     },
     {
+      "key": "TRONG_1/7_",
+      "used": true,
+      "device": "213711466158311"
+    },
+    {
       "key": "MOI222OKNGEFBJDF",
       "used": true,
       "device": "37595140897178"
@@ -46,10 +51,12 @@
       "device": "37629752184957"
     },
     {
-      "key": "TRONG_1/7*"
+      "key": "TEST6LDSFDRR"
     },
     {
-      "key": "TEST7JSJFKDF"
+      "key": "TEST7JSJFKDF",
+      "used": true,
+      "device": "175501879058462"
     },
     {
       "key": "TEST8LRKFEDF"
