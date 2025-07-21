@@ -59,10 +59,12 @@
       "device": "4681962042569"
     },
     {
-      "key": "MAY_PHỤ"
+      "key": "CHECKLIVEACAMZ"
     },
     {
-      "key": "TEST10KSDNFD"
+      "key": "TEST10KSDNFD",
+      "used": true,
+      "device": "237901786261543"
     },
     {
       "key": "TEST11KSDJSD"
