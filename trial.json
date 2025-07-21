@@ -62,7 +62,9 @@
       "key": "CHECKLIVEACAMZ"
     },
     {
-      "key": "TEST10KSDNFD"
+      "key": "TEST10KSDNFD",
+      "used": true,
+      "device": "237901786261543"
     },
     {
       "key": "TEST11KSDJSD"
