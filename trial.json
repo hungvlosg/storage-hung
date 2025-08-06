@@ -97,7 +97,9 @@
       "device": "211642318132182"
     },
     {
-      "key": "TH_Lam1"
+      "key": "TH_Lam1",
+      "used": true,
+      "device": "7032735141819"
     },
     {
       "key": "TEST546587682"
