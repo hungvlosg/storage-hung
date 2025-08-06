@@ -1,7 +1,9 @@
 {
   "keys": [
     {
-      "key": "MayChinh"
+      "key": "hihi",
+      "used": true,
+      "device": "96830609089510"
     },
     {
       "key": "abc654666",
@@ -89,10 +91,12 @@
       "device": "962568719266"
     },
     {
-      "key": "May_Chinh"
+      "key": "TEST18FKSDHSDF"
     },
     {
-      "key": "TEST43464552"
+      "key": "TEST43464552",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TEST87643562"
