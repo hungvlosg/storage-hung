@@ -74,7 +74,9 @@
       "device": "269166783623762"
     },
     {
-      "key": "Toan_DNT1"
+      "key": "Toan_DNT1",
+      "used": true,
+      "device": "962534375451"
     },
     {
       "key": "VuDN",
