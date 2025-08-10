@@ -124,7 +124,9 @@
       "key": "Toan_DNT2"
     },
     {
-      "key": "Toan_DNT3"
+      "key": "Toan_DNT3",
+      "used": true,
+      "device": "962535710826"
     },
     {
       "key": "Toan_DNT4"
