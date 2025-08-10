@@ -1,7 +1,9 @@
 {
   "keys": [
     {
-      "key": "checkaclive1"
+      "key": "checkaclive1",
+      "used": true,
+      "device": "96830609089510"
     },
     {
       "key": "ntma_jpp",
