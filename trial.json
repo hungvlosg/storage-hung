@@ -146,7 +146,9 @@
       "key": "Toan_DNT5"
     },
     {
-      "key": "Toan_DNT6"
+      "key": "Toan_DNT6",
+      "used": true,
+      "device": "962534273163"
     },
     {
       "key": "TEST769678677"
