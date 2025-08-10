@@ -138,7 +138,9 @@
       "key": "checkaclive_THLAM1"
     },
     {
-      "key": "checkaclive_THLAM2"
+      "key": "checkaclive_THLAM2",
+      "used": true,
+      "device": "269166783623762"
     },
     {
       "key": "TEST790785772"
