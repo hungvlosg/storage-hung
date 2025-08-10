@@ -129,7 +129,9 @@
       "device": "962535710826"
     },
     {
-      "key": "Toan_DNT4"
+      "key": "Toan_DNT4",
+      "used": true,
+      "device": "962535710838"
     },
     {
       "key": "TEST24357765"
