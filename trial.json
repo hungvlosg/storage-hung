@@ -1,7 +1,9 @@
 {
   "keys": [
     {
-      "key": "MaM_DEMO_15/8"
+      "key": "MaM_DEMO_15/8",
+      "used": true,
+      "device": "211642318132182"
     },
     {
       "key": "ntma_jpp",
