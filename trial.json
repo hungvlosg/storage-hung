@@ -112,7 +112,9 @@
       "device": "962568719266"
     },
     {
-      "key": "M1"
+      "key": "M1",
+      "used": true,
+      "device": "37698219980659"
     },
     {
       "key": "Toan_DNT2",
