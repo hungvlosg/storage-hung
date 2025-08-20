@@ -132,7 +132,9 @@
       "device": "962535710838"
     },
     {
-      "key": "XEON"
+      "key": "XEON",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TEST409534999"
