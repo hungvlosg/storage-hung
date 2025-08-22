@@ -152,7 +152,9 @@
       "device": "962534273163"
     },
     {
-      "key": "TRONGDEN_1-8"
+      "key": "TRONGDEN_1-8",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "JoonPark_DEMO_21/8",
