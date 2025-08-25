@@ -1,7 +1,9 @@
 {
   "keys": [
     {
-      "key": "MUTEWINTER_DEMO_25/8"
+      "key": "MUTEWINTER_DEMO_25/8",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "ntma_jpp",
