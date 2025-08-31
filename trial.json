@@ -142,7 +142,9 @@
       "device": "147222003680317"
     },
     {
-      "key": "TH_LAMM1"
+      "key": "TH_LAMM1",
+      "used": true,
+      "device": "269166783623762"
     },
     {
       "key": "SUN_T_DEMO_24/8",
