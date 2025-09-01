@@ -135,7 +135,9 @@
       "device": "962534273163"
     },
     {
-      "key": "TRONGDEN_1-9"
+      "key": "TRONGDEN_1-9",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TH_LAMM1",
