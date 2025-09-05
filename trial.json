@@ -1,7 +1,9 @@
 {
   "keys": [
     {
-      "key": "gucci_DEMO_5/9"
+      "key": "gucci_DEMO_5/9",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "ntma_jpp",
