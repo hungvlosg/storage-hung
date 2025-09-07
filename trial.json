@@ -151,7 +151,9 @@
       "device": "147222003680317"
     },
     {
-      "key": "LIAM_DEMO_7/9"
+      "key": "LIAM_DEMO_7/9",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TESET548765"
