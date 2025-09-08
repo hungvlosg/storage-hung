@@ -61,7 +61,9 @@
       "device": "962534375451"
     },
     {
-      "key": "MAYCHINH"
+      "key": "MAYCHINH",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "MINHMINH1_19/8",
