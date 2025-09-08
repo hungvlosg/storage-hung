@@ -179,7 +179,9 @@
       "key": "NGUYEN_DEMO_8/9"
     },
     {
-      "key": "NGUYENN_DEMO_8/9"
+      "key": "NGUYENN_DEMO_8/9",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TEST26758976346"
