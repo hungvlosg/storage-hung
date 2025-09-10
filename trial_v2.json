@@ -218,7 +218,9 @@
       "key": "TEST676585672"
     },
     {
-      "key": "TEST568769782"
+      "key": "TEST568769782",
+      "used": true,
+      "device": "b5c9207c-5f9d-4f09-89ea-a46b77345bd1"
     },
     "b5c9207c-5f9d-4f09-89ea-a46b77345bd1"
   ]
