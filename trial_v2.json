@@ -181,7 +181,9 @@
       "device": "147222003680317"
     },
     {
-      "key": "TOM_DEMO_11/9"
+      "key": "TOM_DEMO_11/9",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "TEST786976887"
